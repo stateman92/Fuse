@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "fuse",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/Fuse",
+      "state" : {
+        "revision" : "4d97ea0a56acd485f6ba6a20ffa98dc0f540dce7",
+        "version" : "1.4.1"
+      }
+    }
+  ],
+  "version" : 2
+}
